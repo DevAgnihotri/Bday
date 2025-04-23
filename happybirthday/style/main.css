@@ -257,19 +257,6 @@ body {
 
   .four .text-box {
     width: 90%;
-    margin-top: 0; /* Remove top margin */
-    padding-bottom: 60px; /* Ensure space for the Send button */
-  }
-
-  .text-box {
-    position: relative;
-    padding-bottom: 60px; /* Add space for the button */
-  }
-
-  .text-box .fake-btn {
-    position: absolute;
-    bottom: 10px;
-    right: 10px;
   }
 
   .text-box .fake-btn {
@@ -301,23 +288,5 @@ body {
   .nine p {
     font-size: 1.5rem;
     font-weight: lighter;
-  }
-
-  .hbd-chatbox {
-    font-size: 0.9rem; /* Decrease font size slightly for better fit */
-  }
-
-  .five {
-    text-align: center;
-    padding: 10px;
-  }
-
-  .five p {
-    font-size: 1.2rem; /* Adjust font size for smaller screens */
-    margin: 5px 0;
-  }
-
-  .idea-6 span {
-    font-size: 8rem; /* Reduce size for better fit */
   }
 }
